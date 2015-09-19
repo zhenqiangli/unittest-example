@@ -1,0 +1,9 @@
+CREATE DATABASE `test` /*!40100 DEFAULT CHARACTER SET utf8 */$$
+
+CREATE TABLE `book` (
+  `id` int(11) NOT NULL AUTO_INCREMENT,
+  `title` varchar(100) DEFAULT NULL,
+  `price` int(11) DEFAULT NULL,
+  `discount` int(11) DEFAULT NULL,
+  PRIMARY KEY (`id`)
+) ENGINE=InnoDB AUTO_INCREMENT=125 DEFAULT CHARSET=utf8

@@ -1,0 +1,5 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<dataset>
+    <book title="title1" price="5" discount="2" />
+	<book title="title2" price="6" discount="2" />
+</dataset>
