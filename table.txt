@@ -1,3 +1,4 @@
+
 CREATE DATABASE `test` /*!40100 DEFAULT CHARACTER SET utf8 */$$
 
 CREATE TABLE `book` (
